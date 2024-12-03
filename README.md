@@ -1,6 +1,6 @@
-# Team ***** Mist 4610 Group Project 2
+# Team 9 Mist 4610 Group Project 2
 
-## Team Name: 
+## Team Name: Team 9
 
 
 ## Team Members:
