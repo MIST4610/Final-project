@@ -6,10 +6,9 @@
 ## Team Members:
 
 1. Hazel Lee [@MIST4610](https://www.github.com/MIST4610)
-2. 
-3.
-4.
-5.
+2. Kevin Reilly [@kmr95597](https://www.github.com/@kmr95597)
+3. Alexandre Tran
+4. Samantha nguyen
 
 ## Problem Description:
 
@@ -60,13 +59,19 @@ Managers can use this information to identify top-performing suppliers, prioriti
 
 3. This query evaluates which suppliers contribute the most to products categorized as "critical" based on certain thresholds (e.g., low inventory levels).
 
-4. This query finds the top suppliers by their total inventory 
+<img width="586" alt="image" src="https://github.com/user-attachments/assets/fe78111b-2b0c-4915-aa04-aa57582a53f0">
 
-<img width="269" alt="image" src="https://github.com/user-attachments/assets/15d758bd-8aa0-403c-96f5-ad47eaae0160">
+
+
+4. This query finds the top suppliers by their total inventory
+   
+ <img width="488" alt="image" src="https://github.com/user-attachments/assets/f578148c-7e6d-445d-968b-9f9d7f541c29">
+
 
 5.This query shows the top 10 products that produce the highest revenue
 
-<img width="390" alt="image" src="https://github.com/user-attachments/assets/a3857b90-b25e-463d-a0e9-7b1b9d6743ad">
+<img width="597" alt="image" src="https://github.com/user-attachments/assets/ac716aaf-3b91-4816-bae6-97ae05bc819b">
+
 
 
 
@@ -86,7 +91,10 @@ The graph ranks employees based on their performance ratings, allowing managers 
 
 3. Displays the amount in inventory in depending on the color and the material
 
-<img width="625" alt="image" src="https://github.com/user-attachments/assets/f4be21d2-ad4a-4701-bee7-5b83b0fd4979">
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/15588e53-972c-42ef-8169-73676c7af5fc">
+
+
+
 
 
 
