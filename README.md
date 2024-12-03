@@ -16,7 +16,8 @@ The task is to model and build a relational database for a T-shirt manufacturing
 
 ## Data Model
 
-<img width="629" alt="image" src="https://github.com/user-attachments/assets/564cc619-cc62-4f42-81d9-a516938b82ac">
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/b79ecc0e-b2f9-4082-9ae4-e5728b2bedff">
+
 
 
 
@@ -35,6 +36,43 @@ On the production side, the company must manage the manufacturing process, which
 Overall, this data model provides a comprehensive framework for managing the company’s operations, from sourcing materials and manufacturing T-shirts to processing customer orders and monitoring inventory levels. The interconnected relationships ensure that all aspects of the business work together seamlessly, enabling the company to maintain high efficiency and deliver quality products to its customers.
 
 ## Data Dictionary:
+
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/d554cdaa-94b3-404f-b0d1-5adb830f6c28">
+
+
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/65bb8f82-332f-4eaa-82ba-36edd6a23d36">
+
+
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/b62e9510-9c7f-44b7-9201-f98fe595e319">
+
+
+<img width="686" alt="image" src="https://github.com/user-attachments/assets/536a672c-5061-4685-ac4f-bb0aa7c21964">
+
+
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/224684cf-057e-4eb2-9b05-88497539b1e4">
+
+
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/5349dd52-a40e-4d8a-a760-190928bc41ec">
+
+
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/7ae19c6c-2241-49db-9a9f-da7c9ebc807d">
+
+
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/94d92dab-5f5e-44f4-ada9-059000500b64">
+
+
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/351d96a8-bd9c-4f2c-af88-c4c73891d334">
+
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/a64cd94a-1434-45bc-81b0-1b79481cc15e">
+
+
+
+
+
+
+
+
 
 
 
