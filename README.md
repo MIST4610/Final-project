@@ -68,7 +68,7 @@ Managers can use this information to identify top-performing suppliers, prioriti
  <img width="488" alt="image" src="https://github.com/user-attachments/assets/f578148c-7e6d-445d-968b-9f9d7f541c29">
 
 
-5.This query shows the top 10 products that produce the highest revenue
+5. This query shows the top 10 products that produce the highest revenue
 
 <img width="597" alt="image" src="https://github.com/user-attachments/assets/ac716aaf-3b91-4816-bae6-97ae05bc819b">
 
@@ -83,15 +83,17 @@ Managers can use this information to identify top-performing suppliers, prioriti
 
 The graph highlights equipment with high workload percentages, such as the Laser Cutter and Sewing Machines. These machines may be nearing or exceeding their optimal operating capacity, which can lead to wear and tear or potential downtime if not managed proactively. Identifying overutilized equipment allows for strategic planning, such as redistributing workload or scheduling maintenance to avoid disruptions
 
-2. employees and creates a heat map
+2. Employee Performance Ratings
 
 <img width="619" alt="image" src="https://github.com/user-attachments/assets/70f17f94-7328-47f6-96cf-8aa2885d792c">
 
-The graph ranks employees based on their performance ratings, allowing managers to quickly identify high performers (e.g., Paul Harris, Charlie Davis) and those whose performance is at the lower end (e.g., Alice Johnson, Kathy Scott). This can guide discussions around recognition, rewards, or areas of improvement.
+This graph displays a list of employees with their performance ratings ranked from lowest to highest. It allows managers to identify employees who may need additional support or improvement. By focusing on lower-rated employees, targeted interventions or meetings can be scheduled to address specific challenges and improve overall performance.
 
-3. Displays the amount in inventory in depending on the color and the material
+3. Inventory distribution based on color and material type
 
 <img width="630" alt="image" src="https://github.com/user-attachments/assets/15588e53-972c-42ef-8169-73676c7af5fc">
+
+This graph provides a clear view of inventory distribution by color and material type, helping businesses identify overstocked or understocked combinations. It supports better inventory management, ensuring the right products are available to meet customer demand. Additionally, it aids in supply chain decisions, production planning, and sales strategies by highlighting which combinations are most or least popular. Overall, it simplifies decision-making for optimizing stock and improving business efficiency.
 
 
 
