@@ -72,6 +72,7 @@ Managers can use this information to identify top-performing suppliers, prioriti
 
 <img width="597" alt="image" src="https://github.com/user-attachments/assets/ac716aaf-3b91-4816-bae6-97ae05bc819b">
 
+This query identifies the top 10 t-shirt products by total revenue. It calculates total revenue by multiplying the quantity ordered by the price for each product. The query uses joins to combine data from the tshirt, orderDetails, and orders tables, ensuring accurate product and sales information. It groups results by product ID and description, then sorts them in descending order of total revenue. This is useful for analyzing top-performing products, optimizing inventory, and planning marketing strategies.
 
 
 
