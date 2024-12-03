@@ -45,25 +45,25 @@ Overall, this data model provides a comprehensive framework for managing the com
 
 ## Queries:
 
-1. How do different inventory statuses impact order delays?
+1. How do different inventory statuses impact order delays
 
 <img width="629" alt="image" src="https://github.com/user-attachments/assets/85aefdc6-af9c-4b4e-8838-8cf4123f1557">
 
 Managers need to understand the relationship between inventory levels and delays in fulfilling customer orders. This insight helps optimize inventory management, avoid stockouts, and improve customer satisfaction.
 
-2. Which suppliers contribute the most to overall revenue, and how significant is their contribution to the company's total sales? 
+2. Which suppliers contribute the most to overall revenue, and how significant is their contribution to the company's total sales
 
 <img width="641" alt="image" src="https://github.com/user-attachments/assets/337d3d60-78f4-4e5b-ad9d-a0d46c580b16">
 
 Managers can use this information to identify top-performing suppliers, prioritize critical partnerships, optimize revenue by increasing orders from high-performing suppliers or improving underperforming ones, and ensure supply chain balance by avoiding over-reliance on a single supplier.
 
-3. This query evaluates which suppliers contribute the most to products categorized as "critical" based on certain thresholds (e.g., low inventory levels).
+3. Which suppliers contribute the most to products categorized as "critical" based on certain thresholds (e.g., low inventory levels).
 
 <img width="586" alt="image" src="https://github.com/user-attachments/assets/fe78111b-2b0c-4915-aa04-aa57582a53f0">
 
 
 
-4. This query finds the top suppliers by their total inventory
+4. What is the top suppliers by their total inventory
    
  <img width="488" alt="image" src="https://github.com/user-attachments/assets/f578148c-7e6d-445d-968b-9f9d7f541c29">
 
