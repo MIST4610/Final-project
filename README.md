@@ -16,7 +16,7 @@ The task is to model and build a relational database for a T-shirt manufacturing
 
 ## Data Model
 
-<img width="616" alt="image" src="https://github.com/user-attachments/assets/a3c53f65-ce69-420e-a7ab-5a94815d05c8">
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/564cc619-cc62-4f42-81d9-a516938b82ac">
 
 
 
