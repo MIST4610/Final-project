@@ -1,6 +1,6 @@
 # Team 9 Mist 4610 Group Project 2
 
-## Team Name: Team 9
+## Team Name: Team KASH
 
 
 ## Team Members:
