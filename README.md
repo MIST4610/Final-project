@@ -7,9 +7,8 @@
 
 1. Hazel Lee [@MIST4610](https://www.github.com/MIST4610)
 2. Kevin Reilly [@kmr95597](https://www.github.com/@kmr95597)
-3. Alexandre Tran
-4. Samantha nguyen
-
+3. Alexandre Tran [@alexandretran1](https://www.github.com/-@alexandretran1)
+4. Samantha nguyen [@clamantha](https://www.github.com/@clamantha)
 ## Problem Description:
 
 The task is to model and build a relational database for a T-shirt manufacturing and retail company. This company operates across multiple domains, including managing suppliers, tracking inventory, processing customer orders, overseeing production, and maintaining employee records. The goal is to accurately model these relationships, generate sample data, populate the entities and their attributes, and run functional queries on this data to derive valuable business insights.
@@ -99,12 +98,15 @@ Managers can use this information to identify top-performing suppliers, prioriti
 
 <img width="586" alt="image" src="https://github.com/user-attachments/assets/fe78111b-2b0c-4915-aa04-aa57582a53f0">
 
+This query evaluates which suppliers contribute the most to products categorized as "critical". 
+Managers need to know which items are in low supply which is critical to continuing operations. This helps managers know which suppliers are in charge of these critical products, how many critical product lines they have, and how much inventory we have of those products. 
 
 
 4. What is the top suppliers by their total inventory
    
  <img width="488" alt="image" src="https://github.com/user-attachments/assets/f578148c-7e6d-445d-968b-9f9d7f541c29">
 
+This query finds the top supplier by going through inventory data. This is key to knowing which of the warehouse’s suppliers produce a majority of our supply. The warehouse can continue to work with these suppliers to find whether they are getting a good deal and making a profit on their business. These are the most reliable and consistent suppliers meaning they should continue to work and support each other.
 
 5. This query shows the top 10 products that produce the highest revenue
 
